@@ -36,6 +36,19 @@ h1 {
   line-height: 1.1;
 }
 
+.headingStyle {
+  background-color : purple;
+  color : white;
+  text-align : center;
+  padding :10px;
+}
+
+.headingStyleLarge {
+  font-weight: 100;
+}
+
+
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
